@@ -1,0 +1,39 @@
+/* You can add custom CSS and extend Boostrap styles in this file. Remember, Bootstrap is just CSS at the end of the day! */
+/* nav {
+  background-color: green;
+} */
+
+/* img {
+  src: "https://imgur.com/a/XEkxtb8";
+} */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: 250px;
+  object-fit: contain;
+  object-position: center;
+  background-color: #000;
+}
+
+.carousel-caption {
+  color: #fff;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.carousel-caption h5 {
+  color: #29a2ed;
+}
+
+.carousel-caption p {
+  color: #f8f9fa;
+}
