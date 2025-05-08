@@ -37,3 +37,7 @@ body {
 .carousel-caption p {
   color: #f8f9fa;
 }
+
+.carousel-control-prev, .carousel-control-next {
+  cursor: pointer;
+}
